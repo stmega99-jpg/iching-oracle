@@ -1,0 +1,23 @@
+NOTICE
+======
+
+This project separates the license of its CODE from the license of its DATA.
+
+Code
+----
+All source code (iching.py, iching_data.py logic, extras/) is licensed under
+the MIT License. See the LICENSE file.
+
+Data
+----
+The 64-hexagram King Wen table and trigram mappings embedded in `iching_data.py`
+are derived from Wikipedia's article "List of hexagrams of the I Ching",
+which is available under the Creative Commons Attribution-ShareAlike license
+(CC BY-SA).
+
+  Source: https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching
+
+Note: the raw factual mapping itself (which two trigrams compose each hexagram,
+and the King Wen numbering) is arguably a set of facts and may not be
+copyrightable. Attribution is provided here out of caution and respect. If you
+redistribute the data, please retain this notice.
